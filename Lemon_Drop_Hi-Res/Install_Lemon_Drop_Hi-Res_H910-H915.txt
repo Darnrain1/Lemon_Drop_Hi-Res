@@ -1,0 +1,77 @@
+****Warning ONLY flash on the H910-H915****
+
+What's included?
+Modded boot.img
+Triton removed
+LG RCT removed (root checker tool)
+twrp-3.7.0_9-0-h910
+Updated Oreo Modem Drivers
+Magisk v24.3
+ezV2020 Kernel v1.0
+New GPU drivers 313.0 V11
+Hi-Res Music Player Enabler
+DAC_Enabler+LGMusic_v1.3_Oreo
+Speed mod v5.31 includes image retention fix
+Thermal_Engine_Mod_v7.0_70c
+Enable system wide Quad DAC support.
+Added AdAway default blocklist to /system/etc/hosts (aka ad blocker)
+Added United States GPS Fix
+Added Camera improvement tweak
+Added Internet Speed Tweaks
+Added the Lemon Drop boot logo
+Added Zram of 2GB + LZ4 algorithm + Zram optimization tweaks
+Added Hide boot warning message
+Added dual channel bonding on 2.4GHz
+High Impedance on headphones under 50 ohm.
+
+Updating Lemon Drop Hi-Res.
+Flash in twrp to update.
+
+Installation instructions:
+Before installing Lemon Drop Hi-Res, your phone needs to be rooted with the latest version of twrp. The H915 needs to install the H910 twrp.
+
+Update twrp. twrp-3.7.0_9-0-h910.img
+https://dl.twrp.me/h910/twrp-3.7.0_9-0-h910.img.html
+
+With the phone powered off, hold the down volume button and plug in usb to computer and phone.
+
+type on your computer:
+
+"fastboot flash recovery twrp-3.7.0_9-0-h910.img"
+"fastbboot reboot"
+take battery out
+put back in
+go into twrp by doing a factory reset. How to factory reset the Lgv20
+https://www.hardreset.info/devices/lg/lg-v20/
+
+1. First download the two required files.
+
+If you are having issues downloading the rom you can try this download manager for Firefox.
+Turbo Download Manager
+https://addons.mozilla.org/en-US/firefox/addon/turbo-download-manager/
+
+H910_20g_Oreo_full_rooted.zip
+https://androidfilehost.com/?fid=1322778262904012823
+
+Lemon_Drop_Hi-Res_vxxx.x_H910-H915_Lgv20_flashable.zip
+from GitHub
+
+H910_20g_Oreo_full_rooted.zip
+Lemon_Drop_Hi-Res_vxxx.x_H910-H915_Lgv20_flashable.zip
+
+2. Then copy both files to the micro sdcard on phone
+3. Reboot into twrp
+4. Click Wipe
+5. Format Data Partition (this will erase your internal storage on the phone)
+6. Click back and reboot into recovery again. aka twrp
+7. Flash H910_20g_Oreo_full_rooted.zip
+8. Flash Lemon_Drop_Hi-Res_vxxx.x_H910-H915_Lgv20_flashable.zip
+9. Reboot into system, run setup
+
+Notes:
+You can use an app like package manager to debloat more apps on your phone.
+https://f-droid.org/en/packages/com.smartpack.packagemanager/
+
+Good idea to reinstall your EFS to get cell signal working. See How_to_Root_the_H910_and_install_Lemon_Drop_Hi-Res?.txt
+
+You can DeGoogle at any time, if you want. See I_want_to_DeGoogle_after_installing_Lemon_Drop_Hi-Res,_how_can_I_do_that?.txt

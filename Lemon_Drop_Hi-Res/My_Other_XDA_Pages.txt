@@ -1,0 +1,22 @@
+Best Apps, Games, Emulators for android & mods/tweaks for the Lgv20
+https://xdaforums.com/t/best-apps-games-emulators-for-android-mods-tweaks-for-the-lgv20.4366691/
+
+Twrp Mods not included in Auto_Debloat
+
+This mod has to be flashed, after you have already setup your phone.
+Speed up WIFI / LTE By enabling CRDA on Android aka wifi country code (root only)
+https://xdaforums.com/t/setting-the-correct-wireless-central-regulatory-domain-agent-crda-on-android-root-only.4382239/
+
+Magisk Module extra add-on Mods are not included in Auto_Debloat.
+
+Disable find my device administrator account. Only if Google is installed.
+https://xdaforums.com/t/disable-find-my-device-administrator-account.4255685/
+
+Disable lock screen service administrator account. Only if Google is installed.
+https://xdaforums.com/t/disable-lock-screen-service-administrator-account.4260079/
+
+Force Doze Mode Force your phone into doze mode to save battery. (root only) With Google or without, like LineageOS or a DeGoogled phone.
+https://xdaforums.com/t/force-doze-mode-force-your-phone-into-doze-mode-to-save-battery-root-only.4467215/
+
+Thermal Engine mod for Lgv20 Stock Oreo/Nougat (root only) Lemon Drop default is 70c you can flash 80c or 60c if you want.
+https://xdaforums.com/t/thermal-engine-mod-for-lgv20-stock-oreo-nougat-root-only.4265665/

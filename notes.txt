@@ -1,0 +1,2 @@
+If your wondering why Lemon Drop Hi-Res is not uploaded to the GitHub root directory, it's because it gave me an error message saying I can only upload 100 files at a time. I do all my programing on my laptop and then upload to GitHub. I cant be bothered with that right now, every time there is a update. I am only working on the mixer_paths file anyway, if you want to see the changes just head on over to the audio source code.
+https://github.com/darnrain/Lemon-Drop-Hi-Res-audio-source-code

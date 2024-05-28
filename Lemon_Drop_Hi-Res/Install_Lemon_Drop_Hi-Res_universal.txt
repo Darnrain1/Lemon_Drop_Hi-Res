@@ -1,0 +1,100 @@
+What's included?
+
+New GPU drivers 313.0 V11
+Disable MLT/LDB
+Removed Triton
+Disabled LG RCT (root checker tool)
+Disabled LG Backup
+Disabled ccmd
+Hi-Res Music Player Enabler
+Speed mod v5.31 includes image retention fix
+Thermal_Engine_Mod_v7.0_70c
+Enable system wide Quad DAC support.
+Added AdAway default blocklist to /system/etc/hosts (aka ad blocker)
+Added United States GPS Fix
+Added Camera improvement tweak
+Added Internet Speed Tweaks
+Added the Lemon Drop Boot logo
+Added Zram of 2GB + LZ4 algorithm + Zram optimization tweaks
+Added dual channel bonding on 2.4GHz
+High Impedance on headphones under 50 ohm.
+
+Updating Lemon Drop Hi-Res.
+Flash in twrp to upgrade.
+
+Installation instructions:
+Before installing Lemon Drop Hi-Res your phone needs to be rooted with the latest version of twrp.
+
+Update twrp
+https://twrp.me/Devices/LG/
+
+With the phone powered off, hold the down volume button and plug in usb to computer and phone.
+
+Note: twrp.img is your version of twrp image file name
+
+type on your computer:
+
+"fastboot flash recovery twrp.img"
+"fastbboot reboot"
+take battery out
+put back in
+go into twrp by doing a factory reset. How to factory reset the Lgv20
+https://www.hardreset.info/devices/lg/lg-v20/
+
+1. First download the five required files.
+
+If you are having issues downloading the rom you can try this download manager for Firefox.
+Turbo Download Manager.
+https://addons.mozilla.org/en-US/firefox/addon/turbo-download-manager/
+
+Stock Oreo 8.0 rooted rom, for your Model of Lgv20.
+
+H918 Rom
+https://xdaforums.com/t/rom-oreo-rooted-t-mobile-h918-20f-20g-20h-oreo-flashable.3848854/
+
+US996 DIrtysanta Rom
+https://androidfilehost.com/?fid=1395089523397892704
+
+VS995 Rom
+https://xdaforums.com/t/vs995-oreo-stock-rooted-verizon-lg-v20-stock-oreo-rooted-flashable-zip.3845669/post-83579713
+
+H900DS Rom link1
+https://xdaforums.com/t/rom-oreo-rooted-h990ds-20a-oreo-flashable.3853735/
+
+H990DS Rom link2
+https://xdaforums.com/t/rom-oreo-rootable-h990ds-20a-20b-ame-ind-twn-flashable.3883897/
+
+ezV2020 v1.0 kernel for Oreo link
+https://xdaforums.com/t/kernel-ezv2020-kernel-pie-oreo-stock.4090779/
+
+Magisk-v21.4.zip
+https://github.com/topjohnwu/Magisk/releases/download/v21.4/Magisk-v21.4.zip
+
+Latest version of twrp
+https://twrp.me/Devices/LG/
+
+Lemon_Drop_Hi-Res_vxxx.x_universal_Lgv20_flashable.zip
+From GitHub
+
+2. Then copy the five files to your micro sdcard
+3. Reboot into twrp
+4. Click Wipe
+5. Format Data Partition (this will erase your internal storage on the phone)
+6. Click back and reboot into recovery again. aka twrp
+7  Flash in this order
+A. Your version Of Stock Oreo 8.0 rom
+B. ezV2020 v1.0 Kernel
+C. Magisk v21.4
+D. Twrp (The twrp img file you can flash with twrp you just need to select Install Image, select the file and choose recovery)
+E. Lemon_Drop_Hi-Res_vxxx.x_universal_Lgv20_flashable.zip
+8. Reboot into system, run setup
+
+Notes:
+You can use an app like package manager to debloat more apps on your phone.
+https://f-droid.org/en/packages/com.smartpack.packagemanager/
+
+Good idea to reinstall your EFS to get cell signal working. See How_to_Root_the_H910_and_install_Lemon_Drop_Hi-Res?.txt
+
+You can DeGoogle at any time, if you want. See I_want_to_DeGoogle_after_installing_Lemon_Drop_Hi-Res,_how_can_I_do_that?.txt
+
+The most stable version of Magisk is v24.3, you can go to Magisk 26.3 just don't use Magisk Hide with that version. Or you can stay on Magisk 21.4, Magisk v24.3 is the version I recommend.

@@ -1,0 +1,47 @@
+Viper4Android?
+Using Viper4Android or JamesDSP on Lemon Drop Hi-Res, undoes all the magic the Quad DAC performs. It downsamples the audio to 16bit 48kHz after the Quad DAC has upsampled everything to 32bit 352.8kHz.
+
+
+What sample rate should I set my music player at?
+You need to choose 24bit 44.1kHz as the source, that's how I programed the DAC, it takes a 44.1kHz audio signal and upsamples the audio eight times to 32bit 352.8kHz. On wired headphones the output is 32bit 352.8kHz, all other devices the output is 44.1kHz 24bit or 16bit. If set to anything other than, 44.1kHz the audio does not get upsampled eight times or it does not multiply evenly into 352.8kHz. In other words, your not going to get the absolute best audio quality.
+
+
+Is the LG Music player 24bit?
+I did some testing and found out that the stock LG music player is in fact only outputting at 16bit.
+
+
+How can I tell if my music player is 24bit?
+You need to use Termux, first update Termux "pkg up"
+
+Then install tsu, "pkg install tsu"
+
+Then run this command in Termux when playing music on wired headphones "sudo dumpsys media.audio_flinger"
+
+look for a line that says AUDIO_FORMAT_PCM_24_BIT_PACKED If it says 16bit then nope.
+
+
+Anything I need to know about Lemon Drop Hi-Res?
+When using wired headphones the DAC needs to say on all the time, or you will have no audio and video will run slow. It's due to Hardware-Offloaded Audio Processing, in other words all the audio is routed through the ESS DAC. No software audio decoding on Lemon Drop Hi-Res, it's all hardware.
+
+
+What 24.bit music players work on the Lgv20?
+The only music players that I found that work at 24bit is Poweramp and Neutron, a persion has reported that Apple Muisc Player is 24bit. USB Audio Player PRO should work at 24bit but I did testing on my Lgv20 phone and it's only outputting at 16bit, at least for the trial version.
+
+
+What's the best Hi-Res music player?
+In my opinion, Poweramp. The #1 reason would be it works great with microG, or a degoogled phone, once Poweramp is fully registered. To speed up registration, just change your phones date then change it back to auto. You can even get updates on Poweramp from Aurora store, just do not ever uninstall Poweramp if you have microG.
+
+
+How do I setup Poweramp, for Lemon Drop Hi-Res?
+Open settings, Audio, Output, Hi-Res Output, Check mark Wired headset and bluetooth, then go into Wired headset and bluetooth settings and set the sample rate to 44.1kHz. Then go back, open OpenSL ES Output, check mark Speaker, open Speaker settings and check mark Float32 Sample Format. Then go back to Audio, Crossface, Face, and Gapless, under Preload Gapless Tracks, make sure its at none 0ms. Then go back to Audio, open Equalizer, uncheck Smooth Equalizer/Tone Gains. Then go back to Settings, Headset/Bluetooth, uncheck Resume On Wired Headset and Bluetooth. You want to be able to lower the volume first before music starts playing. Make sure DVC is enabled, that will enable the Deep Buffers, aka HW DAC bass.That’s it Lemon Drop Hi-Res will do the rest.
+
+I like the profile HIFIMAN RE600, it works great with my Ankbit E600 headphones.
+
+Poweramp also has a feature that you can change music tracks with the volume buttons on the Lgv20 when screen is on and off. Go to settings, Audio, Advanced Tweaks, Change Tracks by Long Volume Keys Press. You need to use the adb command to enable it.
+
+Warning, Do not try to long press to change tracks when Poweramp is open, it does not work and you will blast your ear drums out. Yeah I found out the hard way.
+
+Also Poweramp has a nice preamp, if the music is to loud you can always lower the preamp volume. May have to do that on the internal speaker. You need to assign a profile first to the device for the settings to be saved.
+
+
+End of how can I get the best audio.

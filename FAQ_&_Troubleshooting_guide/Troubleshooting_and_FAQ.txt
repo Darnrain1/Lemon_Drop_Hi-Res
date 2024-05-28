@@ -1,0 +1,127 @@
+How can I disable the built in ad blocker?
+It's not hard to disable just download AdAway install it and give it root access and then click the pause button to disable the ad blocker. If you ever want to enable it, just click on the button again.
+https://f-droid.org/packages/org.adaway/
+
+
+I installed the H910 20H rom with Auto_Debloat, my phone locks up and crashes.
+I had issues running v20H, my H910 would crash after a day or two. On v20G my max uptime was 31 days.
+
+
+How can I pass SaftyNet?
+Open Magisk Click on settings scroll down to MagiskHide check that. Click back go to MagiskHide under the shield icon. Check mark Google play services.
+
+
+I can`t Download Netflix from the play store?
+It's becasue your phone is rooted. You can download Netflix from apkmirror.com or you can Degoogle your phone and download it then.
+https://www.apkmirror.com/apk/netflix-inc/netflix/netflix-8-32-1-build-34-50247-release/netflix-8-32-1-build-34-50247-2-android-apk-download/
+
+
+GPS takes for ever to get a lock?
+You need to find and install the correct GPS fix for your country. Default is United States.
+https://mega.nz/folder/o580mZ4R#ND2JkSw8wPJ96HOSVSVSpA
+You just need to copy the gps.conf to /system/vendor/etc/ folder permissions are "0 0 0644" reboot. GPS should connected faster.
+
+GPS Fix
+https://mega.nz/folder/o580mZ4R#ND2JkSw8wPJ96HOSVSVSpA
+
+
+My camera does not work after Auto_Debloat?
+If you were on LIneageOS or crDroid and then flashed Stock Oreo, then your camera may not work afterwords. The only fix that I know of is to root your phone again. Flash the KDZ to downgrade your firmware and root again.
+
+
+Security PIN not working, or I forgot my PIN to login.
+This can happen if you are restoring a twrp backup. Just delete your pin & set it back up again.
+How to Delete Your Android Security PIN
+https://appuals.com/delete-android-security-pin/
+
+
+"Improve Location Accuracy" keeps popping up when wifi-calling is enabled?
+This is how you fix the google popup message.
+
+Note: 910 is the model number of your phone
+
+dial
+*#546368#*910#
+
+Field Test
+GPRI VoLET/VoWiFi
+IMS
+Common
+VoWiFi
+Use Geolocation Information (Uncheck)
+press back, tell you get to home screen
+Restart phone
+
+
+Frequently Asked Questions
+
+
+How can I save battery power on the H910 & all phones?
+You can turn off AT&T Auto Connect under WIFI. Then under NFC Disable Tag Reading. Also you can download Force_Doze_Mode, this is for all phones.
+
+
+Force Doze Mode Force your phone into doze mode to save battery. (root only) With Google or without, like LineageOS or a DeGoogled phone.
+https://xdaforums.com/t/force-doze-mode-force-your-phone-into-doze-mode-to-save-battery-root-only.4467215/
+
+
+Also one of my favorite programs for all phones
+
+SuperFreezZ "making it possible to entirely freeze all background activities of any app."
+https://f-droid.org/en/packages/superfreeze.tool.android/
+
+
+Also if you want to save your battery from wear you can use BatteryBot Pro. You can set an alarm when charged is reached and you can see your battery level on the second screen with the screen off.
+
+
+BatteryBot Pro "Battery monitoring tool"
+https://f-droid.org/packages/com.darshancomputing.BatteryIndicatorPro/
+
+
+What options do you recommend for a twrp backup?
+Your sdcard need's to be formatted in exfat.
+
+Boot
+Recovery
+System Image
+data (excl. storage)
+EFS
+Firmware
+LAF/Download Mode
+
+
+What about a twrp restore?
+You should factory reset, then restore only if you were already had Lemon Drop installed.
+
+You only need to flash.
+
+Boot
+System Image
+Data
+
+
+How do I format my sdcard for the Lgv20 & copy over my data?
+Note: Formatting will delete all you data on your microsd card. So you may want to make a backup first before formatting.
+
+I have found that it is best to format the sdcard in twrp.
+Click on Wipe
+Click Advanced Wipe
+Check Mark Micro SD card
+Click repair or Change file System
+Click Change File System
+Click on exFAT
+Swipe to format
+
+It's best to just Mount the Usb Storage in TWRP to copy over your data to you micro sd card. I was having issues with my sdcard reader in my laptop. I think it was corrupting the files on the sd card. This way you don't ever have to take your card out of your phone.
+
+
+Is LTE going away because of 5G?
+"LTE, which stands for Long Term Evolution, will be around for at least 10 years, so 5G will not make LTE obsolete any time soon. May 20, 2020"
+
+
+Can I change my Lgv20 from CDMA to LTE/GSM?
+Depending on your version of firmware.
+LG V20 CDMA to LTE/GSM switch via Hidden Menu
+https://xdaforums.com/t/lg-v20-cdma-to-lte-gsm-switch-via-hidden-menu.3602409/
+
+
+The End.

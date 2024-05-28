@@ -1,0 +1,32 @@
+-Google Play Store
+-Google Assistant
+-Audio (input all three mics, & output)
+-Display (with image retention fix & tweaked KCAL settings for optimal color)
+-Bluetooth
+-FM works on (H910) mod for VS995 & US996 link
+-IR Remote
+-LGMusic Player (for H910)
+-Second screen
+-usb
+-Media playback
+-fast charging
+-Hardware buttons
+-Camera (Camera improvement tweaks)
+-GPS (USA gps fix by default & other countries optional) link
+-Fingerprint
+-DAC (Hi-Res Music Player Enabler v151.1 & (Enable system wide Quad DAC support. V8.2)
+-Radio (VoLTE & Wifi Calling only tested on H910 with AT&T)
+-Wifi (dual channel bonding on 2.4GHz + speed tweaks)
+-Thermal Throttling (70c default max temp) link
+-Video output via hdmi
+-DRM Widevine L1
+
+
+What does not work?
+
+-Miracast (removed due to security concerns)
+
+
+Known issues.
+
+When using wired headphones the DAC needs to say on all the time, or you will have no audio and video will run slow. It's due to Hardware-Offloaded Audio Processing, in other words all the audio is routed through the ESS DAC. No software audio decoding on Lemon Drop Hi-Res, it's all hardware.

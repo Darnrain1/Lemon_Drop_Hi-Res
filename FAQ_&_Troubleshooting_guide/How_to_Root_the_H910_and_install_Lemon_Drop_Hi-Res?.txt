@@ -1,0 +1,64 @@
+1. Disable real time scanning, on the windows virus scanner. Download all the files, save terminal emulator to your microsd card the other three save on your computer, unzip dirtysanta, install usb driver and fastboot driver if using windows. Root your H910 with this guide.
+
+h910_root_pkg.zip "DirtySanta root package
+https://androidfilehost.com/?fid=1322778262903990218
+
+usb drivers for windows
+https://androidfilehost.com/?fid=529152257862714635
+
+[GUIDE] V20 Fastboot access in Windows
+https://xdaforums.com/t/guide-v20-fastboot-access-in-windows.3491439/
+
+Terminal Emulator for Android "f-droid Download APK at bottom of page
+https://f-droid.org/en/packages/jackpal.androidterm/
+
+2. [ROOT] HOWTO: AT&T H910 up to v20g (FULLY TESTED) Note: before you flash the KDZ to downgrade your firmware make a DUMP backup with LGUP all files. You don't need to DUMP system or cache. It will have your EFS.
+https://xdaforums.com/t/root-howto-at-t-h910-up-to-v20g-fully-tested.3664500/
+
+3. On step3.bat wait for phone to reboot from fastboot mode, when you see the LG logo, pull the battery. Do a factory reset and that will load TWRP How to factory reset the Lgv20.
+https://www.hardreset.info/devices/lg/lg-v20/
+
+4. Then format data. Very important, you format data with the older version of twrp that is with dirtysanta.
+
+5. Then power off phone.
+
+Note: This next part is for the H910, you need to get your version of twrp for your model of Lgv20. Latest version of twrp link at the bottom of page
+https://twrp.me/Devices/LG/
+
+6. Download twrp for the H910 twrp-3.7.0_9-0-h910.img
+
+7. With the phone powered off, hold the down volume button and plug in usb to computer and phone.
+
+"fastboot flash recovery twrp-3.7.0_9-0-h910.img"
+"fastbboot reboot"
+take battery out
+put back in
+go into twrp by doing a factory reset. How to factory reset the Lgv20
+https://www.hardreset.info/devices/lg/lg-v20/
+
+8. Then you want to format data once more with the new version of twrp.
+
+9. power off phone
+
+10. Then view.
+Install_Lemon_Drop_Hi-Res_H910-H915.txt
+or
+Install_Lemon_Drop_Hi-Res_universal.txt
+
+
+Reinstall your EFS on the Lgv20.
+
+You need find the dump backup you made with LGUP before you downgraded your firmware for rooting. You only need to do this once, after you have rooted your phone.
+
+With the phone powered off, hold the down volume button and plug in usb to computer and phone.
+
+Note: COM6 is whatever com port that is listed on your files.
+
+"fastboot flash fsg fsg_COM6"
+"fastboot flash misc misc_COM6"
+"fastboot flash modemst1 modemst1_COM6"
+"fastboot flash modemst2 modemst2_COM6"
+"fastboot reboot"
+
+
+End of root guide.

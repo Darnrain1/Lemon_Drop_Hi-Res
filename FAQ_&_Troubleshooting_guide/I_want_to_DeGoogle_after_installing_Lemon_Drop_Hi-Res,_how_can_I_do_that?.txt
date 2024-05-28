@@ -1,0 +1,113 @@
+Yes you can, I will show you how to install microG. It's a free and open-source implementation of proprietary Google libraries, that serves as a replacement for Google Play Services.
+https://microg.org/
+
+Make sure your phone is all setup the way you like, before you DeGoogle. There is no rush, you can DeGoogle at any time. All your paid apps and games from the Play Store should run just fine with microG. You will still be able to download the free apps and games from the Play Store, just not your paid apps and games. In less you login via the Aurora Store with your Google account, but that is against Googles TOS, your account may get banned.
+
+1. Only do this once. Copy all your contacts from your Google account to your sim card. Make sure your signed into Google Play Store, open up the phone app, choose Manage contacts, copy from your email address to your SIM card.
+
+2. Then you want to remove your google account in settings, general, accounts. Un-Check Auto-sync Accounts. Then power off phone, do a factory reset to boot into twrp. How to factory reset the Lgv20
+https://www.hardreset.info/devices/lg/lg-v20/
+
+3. Mount system & data, make sure read only is not checked. Open file manager under Advanced and delete the following folders.
+
+To remove any folder from your device, click on the folder.
+Then hit the Delete button
+Finally, perform a right swipe to confirm the deletion.
+
+/system/priv-app/GmsCore
+/system/priv-app/GoogleServicesFramework
+/system/priv-app/Phonesky
+/data/app/com.android.googlequicksearchbox (then some letters and numbers) May not be there.
+/data/app/com.android.vending (then some letters and numbers) May not be there.
+/data/app/com.google.android.gms (then some letters and numbers) May not be there.
+
+4. Then restart phone into system, Close all the errors.
+
+5. Then power off the phone.
+
+6. Download the three files.
+
+NanoDroid-microG-23.1.2.20210117.zip
+https://downloads.nanolx.org/NanoDroid/Stable/NanoDroid-microG-23.1.2.20210117.zip
+
+NanoDroid-patcher-23.1.2.20210117.zip
+https://downloads.nanolx.org/NanoDroid/Stable/NanoDroid-patcher-23.1.2.20210117.zip
+
+NanoDroid-fdroid-23.1.2.20210117.zip
+https://downloads.nanolx.org/NanoDroid/Stable/NanoDroid-fdroid-23.1.2.20210117.zip
+
+NanoDroid Main Page
+https://downloads.nanolx.org/NanoDroid/Stable/
+
+7. Put them on your sdcard.
+
+Note: Now would be a good time to let your phone cool down.
+
+8. Boot into twrp.
+
+9. Install NanoDroid-patcher
+
+Note: this will take 10 minutes.
+
+10. Install NanoDroid-microG
+
+11. Install NanoDroid-Fdroid
+
+12. Wipe Dalvik cache
+
+Note: Now would be a good time to let your phone cool down.
+
+13. Reboot into system.
+
+14. Open F-droid, update.
+
+15. Update to the latest version of Aurora Store from f-droid
+
+16. Open up Aurora Services and click on Whitelist check mark Aurora Store.
+
+17. Open Auroa store choose anonymous. Just choose the default settings for install.
+
+18. Give microG all the permissions it wants. Open microG and enable Google Device Registration. Wait 30 seconds, then restart your phone. After your phone restarts, wait 2 minutes, open microG and check mark Cloud Messaging and the Location Modules.
+
+All done, your phone is now DeGoogled.
+
+
+Troubleshooting guide for DeGoogle
+
+
+In microG under Self Check, Play Store Phonesky Has correct Signature is not checked.
+First disable Chrome and then download and install Chromium from f-droid.
+
+Download Termux and copy past this command:
+https://f-droid.org/en/packages/com.termux/
+
+"su"
+"pm grant com.android.vending android.permission.FAKE_PACKAGE_SIGNATURE"
+
+Or use adb
+
+"adb shell pm grant com.android.vending android.permission.FAKE_PACKAGE_SIGNATURE"
+
+Then update Google WebView to the Latest version from the Aurora Store, restart your phone.
+
+Phonesky should now be checked.
+
+
+I am logged in as anonymous and the search does not work in Aurora Store?
+Yes it's a known bug, open Auora Store sign in as anonymous, open Chromium, do a google search for like "Spotify Lite Play Store". The first link will say in the top left, Google Play. Just click on the link "Spotify Lite". You should get an option to open Aurora Store and set it as the default app. If you get an error "no such app found" or it loads F-droid, then go to settings, do a search for default. Click on Default apps, App links, Aurora Store, click on open supported links, change to ask every time.
+
+
+Network Location not working with microG?
+You have to install Apple UnifiedNlp backend from f-droid and enable it in microG under location modules, disable Deja Vu Location Serivce.
+
+
+Push Notifications not working?
+Clear all data on microG. Give it all the permissions it wants. Open microG and enable Google Device Registration. Wait 30 seconds, then restart your phone. Wait about 2 minutes, enable Cloud Messaging and Location Modules.
+
+
+Text to speech is not working on my DeGoogled phone.
+Install "Speech Services by Google" from the Aurora Store. It was removed automatically when you DeGoogled. Once you get Google Speech Services installed you can install the FOSS app RHVoice do a search for "Speech rate" to activate it.
+https://f-droid.org/en/packages/com.github.olga_yakovleva.rhvoice.android/
+
+
+End of DeGoogle Guide.

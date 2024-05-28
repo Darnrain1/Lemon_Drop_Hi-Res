@@ -1,0 +1,5 @@
+1. Treble: If you love treble with perfectly balanced mid-range and bass. Then this flavor is for you.
+
+2. bass+: This flavor puts the DAC into boost mode aka max output bass and treble volume, with digitally enhanced bass and treble.
+
+Keep in mind that the HW DAC is processing the all the audio, there is no software involved in this processes.

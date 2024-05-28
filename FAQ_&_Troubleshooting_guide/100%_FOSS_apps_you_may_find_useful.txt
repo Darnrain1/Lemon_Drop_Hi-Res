@@ -1,0 +1,70 @@
+Download FOSS software
+
+F-Droid
+https://f-droid.org/
+
+File Manager
+Amaze 
+https://f-droid.org/en/packages/com.amaze.filemanager/
+or
+Material Files
+https://f-droid.org/en/packages/me.zhanghai.android.files/
+
+LGClock removed
+Deskclock
+https://f-droid.org/packages/com.chen.deskclock/
+or
+New Clock
+https://f-droid.org/en/packages/com.best.deskclock/
+
+LGWeather removed
+Forecastie
+https://f-droid.org/en/packages/cz.martykan.forecastie/
+or
+Weather
+https://f-droid.org/packages/de.beowulf.wetter/
+
+Google Calculator removed
+OpenCalc
+https://f-droid.org/en/packages/com.darkempire78.opencalculator/
+or
+yetCalc
+https://f-droid.org/en/packages/yetzio.yetcalc/
+
+Google Keyboard removed
+AnySoftKeyboard
+https://f-droid.org/packages/com.menny.android.anysoftkeyboard/
+or
+OpenBoard
+https://f-droid.org/en/packages/org.dslul.openboard.inputmethod.latin/
+
+Google Maps removed
+Organic Maps
+https://f-droid.org/en/packages/app.organicmaps/
+
+YouTube removed
+Newpipe
+https://f-droid.org/en/packages/org.schabi.newpipe/
+
+Twitch Client
+Xtra
+https://f-droid.org/packages/com.github.andreyasadchy.xtra/
+
+Google Play Music removed
+ViMusic
+https://f-droid.org/packages/it.vfsfitvnm.vimusic/
+or
+InnerTune
+https://f-droid.org/en/packages/com.zionhuang.music/
+
+Podcast Client
+AntennaPod
+https://f-droid.org/en/packages/de.danoeh.antennapod/
+
+Ad Blocker
+AdAway
+https://f-droid.org/packages/org.adaway/
+
+Tea Timer
+Cuppa - Tea Timer
+https://f-droid.org/en/packages/com.nathanatos.Cuppa/

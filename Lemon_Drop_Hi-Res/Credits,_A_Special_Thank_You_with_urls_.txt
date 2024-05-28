@@ -1,0 +1,64 @@
+Credits, A Special Thank You
+
+@ezzony - for the ezV2020 kernel. XDA
+https://xdaforums.com/t/kernel-ezv2020-kernel-pie-oreo-stock.4090779/
+
+@askermk2000 - for the MK2000 kernel. XDA
+https://xdaforums.com/t/vs995-h990-h918-h910-us996-ls997-h915-f800k-l-s-mk2000-kernel-stock.3708330/
+
+@me2151 for DirtySanta. XDA
+https://xdaforums.com/t/ls997-vs995-h910-f800l-dirtysanta-bootloader-unlock-and-root-guide.3519410/
+
+@darkknight200 for the H910 Oreo modem drivers. Download Link
+https://androidfilehost.com/?fid=1322778262903992170
+
+@gavin19 for providing the Adreno 530 GPU drivers 313.0 V11 non-treble-use
+https://mega.nz/folder/zlJBQJhJ#BJuv0brw0doTafuLTXJATw/folder/jxglEDIZ
+
+@Alex_HP for the Camera Improvement tweak for Oreo XDA
+https://xdaforums.com/t/mod-all-variants-camera-improvements-flashable-zip.3795031/post-87027453
+
+@helf for the original Camera Improvement tweak for Nougat XDA
+https://xdaforums.com/t/mod-all-variants-camera-improvements-flashable-zip.3795031/
+
+@ZDeuce2 for the slow wifi fix XDA
+https://xdaforums.com/t/how-to-mod-root-wifi-fix-for-slow-intermittent-connection.3281170/
+
+@tom.etc for the dual bonding speed tweak XDA
+https://xdaforums.com/t/unlocked-boot-read-write-system-only-system-etc-wifi-wcnss_qcom_cfg-ini.3877776/
+
+@4shared for how to hide boot warning message on H910 XDA
+https://xdaforums.com/t/guide-mod-hide-unlocked-bootloader-warning-boot-screen.3879658/
+
+@ezzony for the FM Radio mod for Oreo XDA
+https://xdaforums.com/t/app-fm-radio-us996-vs995-oreo-stock.3956372/
+
+@clsA for the H910 Oreo v20g rom. XDA
+https://xdaforums.com/t/h910-oreo-stock-rooted-at-t-lg-v20-stock-oreo-rooted-flashable-zip.3846384/
+
+@dudeawsome for the H918 Oreo Rom XDA
+https://xdaforums.com/t/rom-oreo-rooted-t-mobile-h918-20f-20g-20h-oreo-flashable.3848854/
+
+@darkknight200 for the DirtySanta-US99620F Oreo Rom
+https://androidfilehost.com/?fid=1395089523397892704
+
+@thchipmunk for hosting the VS995 Oreo Rom XDA
+https://xdaforums.com/t/vs995-oreo-stock-rooted-verizon-lg-v20-stock-oreo-rooted-flashable-zip.3845669/post-83579713
+
+@NotYetADev for making the VS995 Oreo Rom XDA
+https://xdaforums.com/t/vs995-oreo-stock-rooted-verizon-lg-v20-stock-oreo-rooted-flashable-zip.3845669/
+
+@dudeawsome for the H990DS Oreo Rom Link1 XDA
+https://xdaforums.com/t/rom-oreo-rooted-h990ds-20a-oreo-flashable.3853735/
+
+@reza_xdv for the H990DS Oreo Rom Link2 XDA
+https://xdaforums.com/t/rom-oreo-rootable-h990ds-20a-20b-ame-ind-twn-flashable.3883897/
+
+at the people over at AdAway Hosts List GitHub
+https://github.com/AdAway/AdAway
+
+at the people over at Magisk, for an Opensource Root.
+
+at the people over at TWRP for a great recovery app
+
+at Everyone that gave feedback.
