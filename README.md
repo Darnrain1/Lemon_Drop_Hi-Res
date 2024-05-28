@@ -9,7 +9,7 @@ Please lower your volume levels before playing music.<br>
 Please listen at a safe volume level.<br>
 
 Lemon Drop Hi-Res development status: Active.<br>
-latest release: v160.1<br>  
+latest release: v230.1<br>  
 </p>
 
 Credits, A Special Thank You<br>
