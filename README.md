@@ -1,4 +1,3 @@
-![banner](https://github.com/darnrain/Lemon_Drop_Hi-Res/assets/60840489/1fd80758-cdef-4be1-afb5-1d6666d383a0)
 # Welcome to the future of music...<br>
 ## An addon for the Lgv20 running Stock Oreo. (root only)<br>
 The Lgv20 was first with the Android Nougat operating system.<br>
@@ -39,7 +38,7 @@ at Everyone that gave feedback.<br>
 
 MIT License<br>
 
-Copyright (c) 2023 darnrain
+Copyright (c) 2023 darnrain1
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
