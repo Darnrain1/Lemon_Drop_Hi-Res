@@ -1,6 +1,5 @@
 # Welcome to the future of music...<br>
 ## An addon for the Lgv20 running Stock Oreo. (root only)<br>
-The Lgv20 was first with the Android Nougat operating system.<br>
 
 latest release: v230.1<br>  
 </p>
