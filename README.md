@@ -10,7 +10,7 @@ Now it's the first running in True Native Mode.<br>
 With all 4 DACs enabled.<br>
 
 Lemon Drop Hi-Res development status: Static.<br>
-latest release: v230.1<br>
+latest release: v231.1<br>
 </p>
 
 Credits, A Special Thank You<br>
