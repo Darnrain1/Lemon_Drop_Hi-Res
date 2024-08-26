@@ -9,12 +9,12 @@ The Lgv20 was first with the Android Nougat operating system.<br>
 Now it's the first running in True Native Mode.<br>
 With all 4 DACs enabled.<br>
 
-16BIT<br>
+16BIT wired headphones<br>
 Channels = 24576<br>
 KHZ = 705.6<br>
 BIT = 256<br>
 
-24BIT<br>
+24BIT wired headphones<br>
 Channels = 24576<br>
 KHZ = 705.6<br>
 BIT = 384<br>
