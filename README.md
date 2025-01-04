@@ -15,7 +15,7 @@ KHZ = 705.6<br>
 BIT = 256<br>
 
 24BIT wired headphones<br>
-Channels = 24576<br>
+Channels = 49,152<br>
 KHZ = 705.6<br>
 BIT = 384<br>
 
