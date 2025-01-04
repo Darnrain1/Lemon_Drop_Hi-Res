@@ -10,7 +10,7 @@ Now it's the first running in True Native Mode.<br>
 With all 4 DACs enabled.<br>
 
 16BIT wired headphones<br>
-Channels = 24576<br>
+Channels = 49,152<br>
 KHZ = 705.6<br>
 BIT = 256<br>
 
@@ -19,7 +19,7 @@ Channels = 24576<br>
 KHZ = 705.6<br>
 BIT = 384<br>
 
-latest release: v235.1<br>
+latest release: v236.1<br>
 </p>
 
 Credits, A Special Thank You<br>
