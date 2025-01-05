@@ -19,7 +19,7 @@ Channels = 49,152<br>
 KHZ = 705.6<br>
 BIT = 384<br>
 
-latest release: v237.1<br>
+latest release: v238.1<br>
 </p>
 
 Credits, A Special Thank You<br>
