@@ -9,6 +9,10 @@ The Lgv20 was first with the Android Nougat operating system.<br>
 Now it's the first running in True Native Mode.<br>
 With audio perfictly centered, ballanced, and normalized audio.<br>
 With all 4 DACs enabled.<br>
+DAC 0 = low-range<br>
+DAC 1 = mid-range<br>
+DAC 2 = high-range<br>
+DAC 3 = offload<br>
 
 16BIT wired headphones<br>
 Channels = 12,288<br>
