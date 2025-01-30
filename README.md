@@ -28,6 +28,8 @@ latest release: v272.1<br>
 </p>
 
  "Sounds amazing, outstanding and breathtaking" - Darnrain1<br>
+"We have arrived lady's and gentleman, v272.1." - Darnrain1(br>
+
 
 Credits, A Special Thank You<br>
 @ezzony - for the ezV2020 kernel. XDA<br>
