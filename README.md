@@ -4,7 +4,7 @@
 ## An addon for the Lgv20 running Stock Oreo. (root only)<br>
 ## That transforms Stock Oreo into the Lemon Drop Hi-Res<br>
 
-Welcome to the future of music...<br>
+Welcome to the future of music...<br> 
 The Lgv20 was first with the Android Nougat operating system.<br>
 Now it's the first running in True Native Mode.<br>
 With audio perfictly centered, ballanced, and normalized audio.<br>
@@ -26,6 +26,8 @@ BIT = 384<br>
 
 latest release: v272.1<br>
 </p>
+
+ "Sounds amazing, outstanding and breathtaking" - Darnrain1<br>
 
 Credits, A Special Thank You<br>
 @ezzony - for the ezV2020 kernel. XDA<br>
