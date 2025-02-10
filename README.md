@@ -1,12 +1,8 @@
 
 ![Untitled](https://github.com/Darnrain1/Lemon_Drop_Hi-Res/assets/170971862/11de88ef-8b6f-4e7a-9f73-8042b20b4f7c)
 # Welcome to the future of music...<br>
-## An addon for the Lgv20 running Stock Oreo. (root only)<br>
-## That transforms Stock Oreo into the Lemon Drop Hi-Res<br>
-
-Welcome to the future of music...<br> 
-The Lgv20 was first with the Android Nougat operating system.<br>
-Now it's the first running in True Native Mode.<br>
+## The Lgv20 was first with the Android Nougat operating system.<br>
+### Now it's the first running in True Native Mode.<br>
 With audio perfictly centered, ballanced, and normalized audio.<br>
 With all 4 DACs enabled.<br>
 DAC 0 = low-range<br>
@@ -14,15 +10,41 @@ DAC 1 = mid-range<br>
 DAC 2 = high-range<br>
 DAC 3 = offload<br>
 
-16BIT wired headphones<br>
+16BIT wired<br>
 Channels = 12,288<br>
 KHZ = 705.6<br>
 BIT = 256<br>
+True Native Mode? Yes.<br>
 
-24BIT wired headphones<br>
+24BIT wired<br>
 Channels = 12,288<br>
 KHZ = 705.6<br>
 BIT = 384<br>
+True Native Mode? Yes.<br>
+
+16BIT bluetooth<br>
+Channels = 12,288<br>
+KHZ = 44.1<br>
+BIT = 16<br>
+True Native Mode? Yes.<br>
+
+24BIT bluetooth<br>
+Channels = 12,288<br>
+KHZ = 44.1<br>
+BIT = 24<br>
+True Native Mode? Yes.<br>
+
+16bit Internal Speaker<br>
+Channels = 768<br>
+KHZ = 44.1<br>
+BIT = 16<br>
+True Native Mode? Yes.<br>
+
+24bit Internal Speaker<br>
+Channels = 768<br>
+KHZ = 44.1<br>
+BIT = 24<br>
+True Native Mode? Yes.<br>
 
 latest release: v285.1<br>
 </p>
