@@ -10,6 +10,8 @@ DAC 1 = mid-range<br>
 DAC 2 = high-range<br>
 DAC 3 = offload<br>
 
+16bit and 24bit file formants supported.<br>
+
 16BIT wired<br>
 Channels = 12,288<br>
 KHZ = 705.6<br>
