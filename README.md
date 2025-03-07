@@ -47,7 +47,7 @@ KHZ = 44.1<br>
 BIT = 24<br>
 True Native Mode? Yes.<br>
 
-latest release: v328.1<br>
+latest release: v329.1<br>
 </p>
 
  "Sounds amazing, outstanding and breathtaking" - Darnrain1<br>
