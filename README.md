@@ -50,6 +50,9 @@ True Native Mode? Yes.<br>
 latest release: v331.1<br>
 </p>
 
+Lemon Drop Hi-Res Addons<br>
+https://mega.nz/folder/Ru9UlbJS#4DuzyC38K3cN9OpjJL2x7Q<br>
+
  "Sounds amazing, outstanding and breathtaking" - Darnrain1<br>
 
 Credits, A Special Thank You<br>
