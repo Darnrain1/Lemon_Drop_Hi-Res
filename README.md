@@ -4,6 +4,7 @@
 The Lgv20 was first with the Android Nougat operating system.<br>
 Now it's the first running in True Native Mode.<br>
 With audio perfictly centered, ballanced, and dynamic normalization.<br>
+A 24/32bit QuadDAC in True Stereo.<br>
 16bit and 24bit file formats supported.<br>
 With all 4 DACs enabled.<br>
 DAC 0 = low-range<br>
