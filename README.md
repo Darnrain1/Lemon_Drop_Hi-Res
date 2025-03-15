@@ -54,8 +54,6 @@ latest release: v334.1<br>
 Lemon Drop Hi-Res Addons<br>
 https://mega.nz/folder/Ru9UlbJS#4DuzyC38K3cN9OpjJL2x7Q<br>
 
- "Sounds amazing, outstanding and breathtaking" - Darnrain1<br>
-
 Credits, A Special Thank You<br>
 @ezzony - for the ezV2020 kernel. XDA<br>
 @askermk2000 - for the MK2000 kernel. XDA<br>
