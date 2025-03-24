@@ -1,7 +1,6 @@
 
 ![Untitled](https://github.com/Darnrain1/Lemon_Drop_Hi-Res/assets/170971862/11de88ef-8b6f-4e7a-9f73-8042b20b4f7c)
-## Welcome to the future of music...<br>
-For Stock Oreo.<br>
+## Welcome to the future of music...
 The Lgv20 was first with the Android Nougat operating system.<br>
 Now it's the first running in True Native Mode.<br>
 With audio perfictly centered, ballanced, and dynamic normalization.<br>
