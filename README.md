@@ -1,11 +1,11 @@
 
 ![Untitled](https://github.com/Darnrain1/Lemon_Drop_Hi-Res/assets/170971862/11de88ef-8b6f-4e7a-9f73-8042b20b4f7c)
 ## Welcome to the future of music...
-### A twrp flashable file that transforms Stock Oreo into the Lemon Drop Hi-Res.
+### A twrp flashable file that transforms Stock Oreo into The Lemon Drop Hi-Res.
+
 The Lgv20 was first with the Android Nougat operating system.<br>
 Now it's the first running in True Native Mode.<br>
-With audio perfictly centered, ballanced, and dynamic normalization.<br>
-A 24/32bit QuadDAC in True Stereo.<br>
+A 24/32bit QuadDAC running in True Stereo.<br>
 16bit and 24bit file formats supported.<br>
 With all 4 DACs enabled.<br>
 
