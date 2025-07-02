@@ -11,7 +11,7 @@ With all 4 DACs enabled.<br>
 DAC 0: Dedicated to the Low-Range – delivering unparalleled bass depth and richness.<br>
 DAC 1: Master of the Mid-Range – ensuring crystal-clear vocals and instrument presence.<br>
 DAC 2: Sculptor of the High-Range – bringing sparkling detail and airy highs to life.<br>
-DAC 3: Offload for Precision – managing background processes to ensure pristine, uninterrupted audio signal integrity.<br.
+DAC 3: Offload for Precision – managing background processes to ensure pristine, uninterrupted audio signal integrity.<br>
 
 16BIT wired<br>
 Channels = 12,288<br>
