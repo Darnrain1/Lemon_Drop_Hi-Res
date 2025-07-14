@@ -54,10 +54,10 @@ latest release: v351.1<br>
 </p>
 Lemon Drop Hi-Res Releases.<br>
 https://github.com/Darnrain1/Lemon_Drop_Hi-Res/releases<br>
-
+<br>
 Lemon Drop Hi-Res Addons<br>
 https://mega.nz/folder/Ru9UlbJS#4DuzyC38K3cN9OpjJL2x7Q<br>
-
+<br>
 Credits, A Special Thank You<br>
 @ezzony - for the ezV2020 kernel. XDA<br>
 @askermk2000 - for the MK2000 kernel. XDA<br>
