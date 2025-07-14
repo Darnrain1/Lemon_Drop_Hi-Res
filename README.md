@@ -52,6 +52,8 @@ True Native Mode? Yes.<br>
 
 latest release: v351.1<br>
 </p>
+Lemon Drop Hi-Res Releases.<br>
+https://github.com/Darnrain1/Lemon_Drop_Hi-Res/releases
 
 Lemon Drop Hi-Res Addons<br>
 https://mega.nz/folder/Ru9UlbJS#4DuzyC38K3cN9OpjJL2x7Q<br>
