@@ -50,7 +50,7 @@ KHZ = 44.1<br>
 BIT = 24<br>
 True Native Mode? Yes.<br>
 
-latest release: v351.1<br>
+latest release: v352.1<br>
 </p>
 Lemon Drop Hi-Res Releases.<br>
 https://github.com/Darnrain1/Lemon_Drop_Hi-Res/releases<br>
