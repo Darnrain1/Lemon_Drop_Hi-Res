@@ -39,7 +39,7 @@ BIT = 24<br>
 True Native Mode? Yes.<br>
 
 16bit Internal Speaker<br>
-Channels = 384<br>
+Channels = 192<br>
 KHZ = 44.1<br>
 BIT = 16<br>
 True Native Mode? Yes.<br>
@@ -50,7 +50,7 @@ KHZ = 44.1<br>
 BIT = 24<br>
 True Native Mode? Yes.<br>
 
-latest release: v358.2<br>
+latest release: v359.1<br>
 </p>
 Lemon Drop Hi-Res Releases.<br>
 https://github.com/Darnrain1/Lemon_Drop_Hi-Res/releases<br>
