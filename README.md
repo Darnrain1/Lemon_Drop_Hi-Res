@@ -15,7 +15,7 @@ DAC 2: Sculptor of the High-Range – bringing sparkling detail and airy, extend
 DAC 3: Offload for Precision – managing background processes and signal integrity, ensuring that the other three DACs can focus purely on converting the audio signal without interference.<br>
 
 16BIT wired<br>
-Channels = 24,576br>
+Channels = 24,576<br>
 KHZ = 705.6<br>
 BIT = 256<br>
 True Native Mode? Yes.<br>
