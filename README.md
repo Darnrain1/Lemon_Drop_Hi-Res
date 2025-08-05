@@ -38,13 +38,13 @@ KHZ = 44.1<br>
 BIT = 24<br>
 True Native Mode? Yes.<br>
 
-16bit Internal Speaker<br>
+16bit Internal Speaker mono<br>
 Channels = 192<br>
 KHZ = 44.1<br>
 BIT = 16<br>
 True Native Mode? Yes.<br>
 
-24bit Internal Speaker<br>
+24bit Internal Speaker Stereo<br>
 Channels = 3,072<br>
 KHZ = 44.1<br>
 BIT = 24<br>
