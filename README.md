@@ -15,42 +15,42 @@ DAC 2: Sculptor of the High-Range – bringing sparkling detail and airy, extend
 DAC 3: Offload for Precision – managing background processes and signal integrity, ensuring that the other three DACs can focus purely on converting the audio signal without interference.<br>
 
 16BIT wired<br>
-Channels = 12,288<br>
+Channels = 24,576br>
 KHZ = 705.6<br>
 BIT = 256<br>
 True Native Mode? Yes.<br>
 
 24BIT wired<br>
-Channels = 12,288<br>
+Channels = 24,576<br>
 KHZ = 705.6<br>
 BIT = 384<br>
 True Native Mode? Yes.<br>
 
 16BIT bluetooth<br>
-Channels = 768<br>
+Channels = 3,072<br>
 KHZ = 44.1<br>
 BIT = 16<br>
 True Native Mode? Yes.<br>
 
 24BIT bluetooth<br>
-Channels = 768<br>
+Channels = 3,072<br>
 KHZ = 44.1<br>
 BIT = 24<br>
 True Native Mode? Yes.<br>
 
 16bit Internal Speaker<br>
-Channels = 768<br>
+Channels = 384<br>
 KHZ = 44.1<br>
 BIT = 16<br>
 True Native Mode? Yes.<br>
 
 24bit Internal Speaker<br>
-Channels = 768<br>
+Channels = 3,072<br>
 KHZ = 44.1<br>
 BIT = 24<br>
 True Native Mode? Yes.<br>
 
-latest release: v357.1<br>
+latest release: v358.2<br>
 </p>
 Lemon Drop Hi-Res Releases.<br>
 https://github.com/Darnrain1/Lemon_Drop_Hi-Res/releases<br>
