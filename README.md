@@ -14,42 +14,6 @@ DAC 1: Master of the Mid-Range – ensuring crystal-clear vocals and rich instru
 DAC 2: Sculptor of the High-Range – bringing sparkling detail and airy, extended highs to life.<br>
 DAC 3: Offload for Precision – managing background processes and signal integrity, ensuring that the other three DACs can focus purely on converting the audio signal without interference.<br>
 
-16BIT wired<br>
-Channels = 6,144<br>
-KHZ = 705.6<br>
-BIT = 256<br>
-True Native Mode? Yes.<br>
-
-24BIT wired<br>
-Channels = 6,144<br>
-KHZ = 705.6<br>
-BIT = 384<br>
-True Native Mode? Yes.<br>
-
-16BIT bluetooth<br>
-Channels = 1,536<br>
-KHZ = 44.1<br>
-BIT = 16<br>
-True Native Mode? Yes.<br>
-
-24BIT bluetooth<br>
-Channels = 1,536<br>
-KHZ = 44.1<br>
-BIT = 24<br>
-True Native Mode? Yes.<br>
-
-16bit Internal Speaker mono<br>
-Channels = 192<br>
-KHZ = 44.1<br>
-BIT = 16<br>
-True Native Mode? Yes.<br>
-
-24bit Internal Speaker Stereo<br>
-Channels = 1,536<br>
-KHZ = 44.1<br>
-BIT = 24<br>
-True Native Mode? Yes.<br>
-
 latest release: v360.3<br>
 </p>
 Lemon Drop Hi-Res Releases.<br>
