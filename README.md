@@ -14,7 +14,7 @@ DAC 1: Master of the Mid-Range – ensuring crystal-clear vocals and rich instru
 DAC 2: Sculptor of the High-Range – bringing sparkling detail and airy, extended highs to life.<br>
 DAC 3: Offload for Precision – managing background processes and signal integrity, ensuring that the other three DACs can focus purely on converting the audio signal without interference.<br>
 
-latest release: v360.3<br>
+latest release: v361.1<br>
 </p>
 Lemon Drop Hi-Res Releases.<br>
 https://github.com/Darnrain1/Lemon_Drop_Hi-Res/releases<br>
