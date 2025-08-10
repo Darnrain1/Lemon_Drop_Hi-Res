@@ -1,5 +1,5 @@
+<img width="900" height="300" alt="335902740-11de88ef-8b6f-4e7a-9f73-8042b20b4f7c" src="https://github.com/user-attachments/assets/6b847d48-0dfe-4b2e-a057-2b7b2c8182b6" />
 
-![Untitled](https://github.com/Darnrain1/Lemon_Drop_Hi-Res/assets/170971862/11de88ef-8b6f-4e7a-9f73-8042b20b4f7c)
 ## Welcome to the future of music...
 ### A twrp flashable file that transforms Stock Oreo into The Lemon Drop Hi-Res.
 
