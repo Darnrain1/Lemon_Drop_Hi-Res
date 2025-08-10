@@ -9,7 +9,7 @@ A 24/32bit QuadDAC running in True Stereo.<br>
 16bit and 24bit file formats supported.<br>
 With all 4 DACs enabled.<br>
 
-latest release: v363.3<br>
+latest release: v364.1<br>
 </p>
 Lemon Drop Hi-Res Releases.<br>
 https://github.com/Darnrain1/Lemon_Drop_Hi-Res/releases<br>
